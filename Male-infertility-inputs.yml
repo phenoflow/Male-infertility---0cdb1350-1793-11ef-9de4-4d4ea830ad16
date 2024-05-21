@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/male-infertility-seman---primary.py
+inputModule3:
+  class: File
+  path: python/male-infertility-young's---primary.py
+inputModule4:
+  class: File
+  path: python/male-infertility---primary.py
+inputModule5:
+  class: File
+  path: python/infertility---primary.py
+inputModule6:
+  class: File
+  path: python/male-infertility-unspecified---primary.py
+inputModule7:
+  class: File
+  path: python/hypothalamic-male-infertility---primary.py
+inputModule8:
+  class: File
+  path: python/male-infertility-aspermia---primary.py
+inputModule9:
+  class: File
+  path: python/male-infertility-azoospermia---primary.py
+inputModule10:
+  class: File
+  path: python/extratesticular-male-infertility---primary.py
+inputModule11:
+  class: File
+  path: python/male-infertility-subfertility---primary.py
+inputModule12:
+  class: File
+  path: python/secondary-male-infertility---primary.py
+inputModule13:
+  class: File
+  path: python/male-infertility-oligoasthenozoospermia---primary.py
+inputModule14:
+  class: File
+  path: python/male-infertility-oligospermia---primary.py
+inputModule15:
+  class: File
+  path: python/possible-male-infertility---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
